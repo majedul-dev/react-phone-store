@@ -168,6 +168,14 @@ class ProductProvider extends Component {
     });
   };
 
+
+  // successMsg = () => {
+  //   setTimeout(() => {
+  //     <SuccessPurchacMsg />
+  //   }, 4000)
+  // }
+
+
   render() {
     return (
       <ProductContext.Provider
